@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<KpTelegramConfig>
-  <BotToken>5604379266:AAF9uy_vlPUMjRPl4F-mtvMr3dcKkne-SRE</BotToken>
-  <BotPassword>YoPuedo1998</BotPassword>
-  <Subscriptions>
-    <Subscription ChatID="-830809898" Name="notifyScada" />
-  </Subscriptions>
-</KpTelegramConfig>

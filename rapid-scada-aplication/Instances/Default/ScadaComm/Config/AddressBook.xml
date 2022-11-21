@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<AddressBook>
-  <ContactGroup name="My Group">
-    <Contact name="Demo">
-      <Email>testpfscada@outlook.com</Email>
-    </Contact>
-  </ContactGroup>
-</AddressBook>

@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfInCnl xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <InCnl>
+    <CnlNum>3011</CnlNum>
+    <Active>true</Active>
+    <Name>device - Estado1</Name>
+    <CnlTypeID>2</CnlTypeID>
+    <ObjNum>1</ObjNum>
+    <KPNum>1</KPNum>
+    <Signal>1</Signal>
+    <FormulaUsed>false</FormulaUsed>
+    <Formula />
+    <Averaging>false</Averaging>
+    <ParamID xsi:nil="true" />
+    <FormatID>3</FormatID>
+    <UnitID xsi:nil="true" />
+    <CtrlCnlNum xsi:nil="true" />
+    <EvEnabled>false</EvEnabled>
+    <EvSound>false</EvSound>
+    <EvOnChange>false</EvOnChange>
+    <EvOnUndef>false</EvOnUndef>
+    <LimLowCrash xsi:nil="true" />
+    <LimLow xsi:nil="true" />
+    <LimHigh xsi:nil="true" />
+    <LimHighCrash xsi:nil="true" />
+  </InCnl>
+  <InCnl>
+    <CnlNum>3012</CnlNum>
+    <Active>true</Active>
+    <Name>device - EStado2</Name>
+    <CnlTypeID>2</CnlTypeID>
+    <ObjNum>1</ObjNum>
+    <KPNum>1</KPNum>
+    <Signal>2</Signal>
+    <FormulaUsed>false</FormulaUsed>
+    <Formula />
+    <Averaging>false</Averaging>
+    <ParamID xsi:nil="true" />
+    <FormatID>3</FormatID>
+    <UnitID xsi:nil="true" />
+    <CtrlCnlNum xsi:nil="true" />
+    <EvEnabled>false</EvEnabled>
+    <EvSound>false</EvSound>
+    <EvOnChange>false</EvOnChange>
+    <EvOnUndef>false</EvOnUndef>
+    <LimLowCrash xsi:nil="true" />
+    <LimLow xsi:nil="true" />
+    <LimHigh xsi:nil="true" />
+    <LimHighCrash xsi:nil="true" />
+  </InCnl>
+  <InCnl>
+    <CnlNum>3013</CnlNum>
+    <Active>true</Active>
+    <Name>device - Estado3</Name>
+    <CnlTypeID>2</CnlTypeID>
+    <ObjNum>1</ObjNum>
+    <KPNum>1</KPNum>
+    <Signal>3</Signal>
+    <FormulaUsed>false</FormulaUsed>
+    <Formula />
+    <Averaging>false</Averaging>
+    <ParamID xsi:nil="true" />
+    <FormatID>3</FormatID>
+    <UnitID xsi:nil="true" />
+    <CtrlCnlNum xsi:nil="true" />
+    <EvEnabled>false</EvEnabled>
+    <EvSound>false</EvSound>
+    <EvOnChange>false</EvOnChange>
+    <EvOnUndef>false</EvOnUndef>
+    <LimLowCrash xsi:nil="true" />
+    <LimLow xsi:nil="true" />
+    <LimHigh xsi:nil="true" />
+    <LimHighCrash xsi:nil="true" />
+  </InCnl>
+  <InCnl>
+    <CnlNum>3014</CnlNum>
+    <Active>true</Active>
+    <Name>device - manual</Name>
+    <CnlTypeID>2</CnlTypeID>
+    <ObjNum>1</ObjNum>
+    <KPNum>1</KPNum>
+    <Signal>4</Signal>
+    <FormulaUsed>false</FormulaUsed>
+    <Formula />
+    <Averaging>false</Averaging>
+    <ParamID xsi:nil="true" />
+    <FormatID>3</FormatID>
+    <UnitID xsi:nil="true" />
+    <CtrlCnlNum xsi:nil="true" />
+    <EvEnabled>false</EvEnabled>
+    <EvSound>false</EvSound>
+    <EvOnChange>false</EvOnChange>
+    <EvOnUndef>false</EvOnUndef>
+    <LimLowCrash xsi:nil="true" />
+    <LimLow xsi:nil="true" />
+    <LimHigh xsi:nil="true" />
+    <LimHighCrash xsi:nil="true" />
+  </InCnl>
+</ArrayOfInCnl>

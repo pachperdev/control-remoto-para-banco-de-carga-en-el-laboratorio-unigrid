@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfKP xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <KP>
+    <KPNum>1</KPNum>
+    <Name>device</Name>
+    <KPTypeID>214</KPTypeID>
+    <Address>202</Address>
+    <CallNum />
+    <CommLineNum>1</CommLineNum>
+    <Descr />
+  </KP>
+  <KP>
+    <KPNum>2</KPNum>
+    <Name>device-email</Name>
+    <KPTypeID>221</KPTypeID>
+    <Address xsi:nil="true" />
+    <CallNum />
+    <CommLineNum>2</CommLineNum>
+    <Descr />
+  </KP>
+  <KP>
+    <KPNum>3</KPNum>
+    <Name>device-telegram</Name>
+    <KPTypeID>224</KPTypeID>
+    <Address xsi:nil="true" />
+    <CallNum />
+    <CommLineNum>3</CommLineNum>
+    <Descr />
+  </KP>
+</ArrayOfKP>

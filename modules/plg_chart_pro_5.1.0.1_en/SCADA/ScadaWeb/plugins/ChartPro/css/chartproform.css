@@ -1,0 +1,95 @@
+﻿body {
+  margin: 0;
+  padding: 0;
+  background-color: white;
+  color: #333;
+  overflow: hidden;
+}
+/* Inclusion font in the body adds unexpected pixel to the document height */
+div {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 13px;
+  box-sizing: border-box;
+}
+#divChartContent {
+  height: 100%;
+  overflow: hidden;
+}
+#divChart {
+  min-width: 100px;
+  padding: 10px;
+  display: inline-block;
+  overflow: auto;
+}
+#divMenuContainer {
+  position: relative;
+  width: 40px;
+}
+#divMenu {
+  position: absolute;
+  top: -5px;
+}
+#btnMenu {
+  padding: 4px 8px;
+}
+#spanMenuBtn {
+  position: relative;
+  top: 2px;
+  font-size: 15px;
+}
+#divClose {
+  display: inline-block;
+  margin-left: 10px;
+}
+#divData {
+  margin: 5px 0 0;
+  padding: 0 5px;
+  min-width: 50px;
+  display: none;
+  font-size: 12px;
+  overflow: auto;
+}
+#divData.show {
+  display: inline-block !important;
+}
+#divData tr.hdr.fixed-table-header {
+  left: 5px;
+}
+#tblData {
+  border-collapse: collapse;
+}
+#tblData tr {
+  background-color: white;
+}
+#tblData tr:hover {
+  background-color: #e0e0e0;
+}
+#tblData tr.hdr,
+#tblData tr.hdr:hover {
+  background-color: #ccc;
+}
+#tblData tr.date,
+#tblData tr.date:hover {
+  background-color: #ccc;
+}
+#tblData td {
+  border: 1px solid #999;
+  font-size: 12px;
+  line-height: 18px;
+  padding: 2px 3px;
+  text-align: center;
+  vertical-align: middle;
+  white-space: nowrap;
+}
+#tblData tr.hdr td {
+  border-color: #888;
+  font-weight: 600;
+  padding: 2px 7px;
+}
+#tblData tr.date-row td {
+  font-weight: 600;
+}
+#lblNoData {
+  display: block;
+  text-align: center;
+}

@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlgChartProDictionaries>
+  <Dictionary key="Scada.Web.Plugins.Chart">
+    <Phrase key="PerfWarning">Warning! Too many channels may affect performance.</Phrase>
+    <Phrase key="AddCnlBtn">Add</Phrase>
+    <Phrase key="RemoveCnlBtn">Remove</Phrase>
+    <Phrase key="CnlInfoBtn">Info</Phrase>
+    <Phrase key="ObjectHint">Object: </Phrase>
+    <Phrase key="DeviceHint">Device: </Phrase>
+    <Phrase key="ViewHint">View: </Phrase>
+  </Dictionary>
+  <Dictionary key="Scada.Web.Plugins.ChartPro.WFrmChartCnls">
+    <Phrase key="this">Chart Channels</Phrase>
+    <Phrase key="btnAddCnls">Add Channels</Phrase>
+    <Phrase key="lblSelCnls">Selected Channels:</Phrase>
+    <Phrase key="lblNoSelCnls">Input channels are not selected</Phrase>
+    <Phrase key="lbtnBackToCnls">Back to selected channels</Phrase>
+    <Phrase key="lblLoading">Loading...</Phrase>
+    <Phrase key="lblUnableLoadView">Unable to load view</Phrase>
+    <Phrase key="lblNoCnlsByView">Input channels not found</Phrase>
+  </Dictionary>
+  <Dictionary key="Scada.Web.Plugins.ChartPro.WFrmChartExport">
+    <Phrase key="this">Chart Export</Phrase>
+    <Phrase key="btnExportPdf">Export chart to PDF</Phrase>
+    <Phrase key="btnExportPng">Export chart to PNG</Phrase>
+    <Phrase key="btnExportExcel">Export data to Excel</Phrase>
+    <Phrase key="lblDateFrom">From</Phrase>
+    <Phrase key="txtDateTo">To</Phrase>
+  </Dictionary>
+  <Dictionary key="Scada.Web.Plugins.ChartPro.WFrmChartPeriod">
+    <Phrase key="this">Chart Period</Phrase>
+    <Phrase key="lblDateFrom">From</Phrase>
+    <Phrase key="txtDateTo">To</Phrase>
+    <Phrase key="btnPrevDay">Day Left</Phrase>
+    <Phrase key="btnNextDay">Day Right</Phrase>
+    <Phrase key="btnPrevWeek">Week Left</Phrase>
+    <Phrase key="btnNextWeek">Week Right</Phrase>
+    <Phrase key="btnPrevMonth">Month Left</Phrase>
+    <Phrase key="btnNextMonth">Month Right</Phrase>
+  </Dictionary>
+  <Dictionary key="Scada.Web.Plugins.ChartPro.WFrmChartPeriodRolling">
+    <Phrase key="this">Chart Period</Phrase>
+    <Phrase key="lblPeriod">Period</Phrase>
+    <Phrase key="lblPeriodUnit">min</Phrase>
+  </Dictionary>
+  <Dictionary key="Scada.Web.Plugins.ChartPro.WFrmChartPro">
+    <Phrase key="this">Chart Pro</Phrase>
+    <Phrase key="hlSelectCnls">Select Channels</Phrase>
+    <Phrase key="hlChangePeriod">Change Period</Phrase>
+    <Phrase key="hlShowData">Show Data</Phrase>
+    <Phrase key="hlHideData">Hide Data</Phrase>
+    <Phrase key="hlExport">Export</Phrase>
+    <Phrase key="btnClose">Close</Phrase>
+    <Phrase key="Generated">Generated </Phrase>
+  </Dictionary>
+  <Dictionary key="Scada.Web.Plugins.ChartPro.WFrmChartPro.Js">
+    <Phrase key="DataLoading">Data loading...</Phrase>
+    <Phrase key="LoadError">Error loading data</Phrase>
+    <Phrase key="Generated">Generated </Phrase>
+    <Phrase key="TimeCol">Time</Phrase>
+    <Phrase key="ZoomIn">Zoom In</Phrase>
+    <Phrase key="ZoomOut">Zoom Out</Phrase>
+    <Phrase key="ResetZoom">Reset Zoom</Phrase>
+  </Dictionary>
+</PlgChartProDictionaries>

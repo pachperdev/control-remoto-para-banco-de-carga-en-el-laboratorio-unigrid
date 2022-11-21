@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<KpTelegramDictionaries>
+  <Dictionary key="Scada.Comm.Devices.Telegram.UI.FrmConfig">
+    <Phrase key="this">Telegram - Device {0} Configuration</Phrase>
+    <Phrase key="pageConfig">Configuration</Phrase>
+    <Phrase key="lblBotToken">Bot Token</Phrase>
+    <Phrase key="btnPasteBotToken.ToolTip">Paste bot token</Phrase>
+    <Phrase key="lblBotPassword">Bot password</Phrase>
+    <Phrase key="btnGenBotPassword.ToolTip">Generate password</Phrase>
+    <Phrase key="lblSubscr">Subscriptions</Phrase>
+    <Phrase key="btnAddSubscr.ToolTip">Add a subscription</Phrase>
+    <Phrase key="btnDelSubscr.ToolTip">Delete selected subscription</Phrase>
+    <Phrase key="colSubscrID">ID</Phrase>
+    <Phrase key="colSubscrName">Name</Phrase>
+    <Phrase key="miCopySubscrID">Copy ID</Phrase>
+    <Phrase key="miCopySubscrName">Copy Name</Phrase>
+    <Phrase key="miDelSubscr">Delete Subscription</Phrase>
+    <Phrase key="pageReg">Registration</Phrase>
+    <Phrase key="btnSave">Save</Phrase>
+    <Phrase key="btnClose">Close</Phrase>
+  </Dictionary>
+  <Dictionary key="Scada.Comm.Devices.Telegram.UI.FrmSubscrAdd">
+    <Phrase key="this">Add Subscription</Phrase>
+    <Phrase key="lblChatID">Chat ID</Phrase>
+    <Phrase key="lblName">Name</Phrase>
+    <Phrase key="btnOK">OK</Phrase>
+    <Phrase key="btnCancel">Cancel</Phrase>
+  </Dictionary>
+</KpTelegramDictionaries>

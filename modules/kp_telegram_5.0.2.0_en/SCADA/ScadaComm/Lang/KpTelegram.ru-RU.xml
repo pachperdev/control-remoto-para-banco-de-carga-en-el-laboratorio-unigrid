@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<KpTelegramDictionaries>
+  <Dictionary key="Scada.Comm.Devices.Telegram.UI.FrmConfig">
+    <Phrase key="this">Telegram - Конфигурация КП {0}</Phrase>
+    <Phrase key="pageConfig">Конфигурация</Phrase>
+    <Phrase key="lblBotToken">Токен бота</Phrase>
+    <Phrase key="btnPasteBotToken.ToolTip">Вставить токен бота</Phrase>
+    <Phrase key="lblBotPassword">Пароль бота</Phrase>
+    <Phrase key="btnGenBotPassword.ToolTip">Генерировать пароль</Phrase>
+    <Phrase key="lblSubscr">Подписки</Phrase>
+    <Phrase key="btnAddSubscr.ToolTip">Добавить подписку</Phrase>
+    <Phrase key="btnDelSubscr.ToolTip">Удалить выбранную подписку</Phrase>
+    <Phrase key="colSubscrID">Ид.</Phrase>
+    <Phrase key="colSubscrName">Наименование</Phrase>
+    <Phrase key="miCopySubscrID">Копировать идентификатор</Phrase>
+    <Phrase key="miCopySubscrName">Копировать наименование</Phrase>
+    <Phrase key="miDelSubscr">Удалить подписку</Phrase>
+    <Phrase key="pageReg">Регистрация</Phrase>
+    <Phrase key="btnSave">Сохранить</Phrase>
+    <Phrase key="btnClose">Закрыть</Phrase>
+  </Dictionary>
+  <Dictionary key="Scada.Comm.Devices.Telegram.UI.FrmSubscrAdd">
+    <Phrase key="this">Добавление подписки</Phrase>
+    <Phrase key="lblChatID">Идентификатор чата</Phrase>
+    <Phrase key="lblName">Наименование</Phrase>
+    <Phrase key="btnOK">OK</Phrase>
+    <Phrase key="btnCancel">Отмена</Phrase>
+  </Dictionary>
+</KpTelegramDictionaries>

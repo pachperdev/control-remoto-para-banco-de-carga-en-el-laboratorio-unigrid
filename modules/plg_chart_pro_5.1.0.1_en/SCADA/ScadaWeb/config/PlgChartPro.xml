@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<PlgChartPro>
+  <DisplayOptions>
+    <!-- The following options are retrieved from the global software parameters:
+    <Locale>en-GB</Locale>
+    <GapBetweenPoints>90</GapBetweenPoints>
+    <AlignXToGrid>true</AlignXToGrid>
+    -->
+    <ChartArea>
+      <!-- Padding and margin is an array containing from 0 to 4 elements -->
+      <ChartPadding>10, 20, 10, 10</ChartPadding>
+      <FontName>Arial</FontName>
+      <BackColor>#ffffff</BackColor>
+    </ChartArea>
+    <ChartTitle>
+      <ShowTitle>true</ShowTitle>
+      <ShowMenu>true</ShowMenu>
+      <ShowStatus>true</ShowStatus>
+      <Height>30</Height>
+      <FontSize>17</FontSize>
+      <ForeColor>#333333</ForeColor>
+    </ChartTitle>
+    <PlotArea>
+      <FrameColor>#808080</FrameColor>
+      <GridColor>#e0e0e0</GridColor>
+      <BackColor>#ffffff</BackColor>
+      <MarkerColor>#000000</MarkerColor>
+      <SelectionColor>#6aaaea</SelectionColor>
+      <LineWidth>1</LineWidth>
+      <TrendColors>
+        <!-- Red -->
+        <Color>#ff0000</Color>
+        <!-- Blue -->
+        <Color>#0000ff</Color>
+        <!-- Green -->
+        <Color>#008000</Color>
+        <!-- Fuchsia -->
+        <Color>#ff00ff</Color>
+        <!-- Orange -->
+        <Color>#ffa500</Color>
+        <!-- Aqua -->
+        <Color>#00ffff</Color>
+        <!-- Lime -->
+        <Color>#00ff00</Color>
+        <!-- Indigo -->
+        <Color>#4b0082</Color>
+        <!-- DeepPink -->
+        <Color>#ff1493</Color>
+        <!-- SaddleBrown -->
+        <Color>#8b4513</Color>
+      </TrendColors>
+    </PlotArea>
+    <XAxis>
+      <Height>30</Height>
+      <ShowGridLines>true</ShowGridLines>
+      <ShowDates>true</ShowDates>
+      <MajorTickSize>4</MajorTickSize>
+      <MinorTickSize>2</MinorTickSize>
+      <ShowMinorTicks>true</ShowMinorTicks>
+      <LabelMargin>2, 3, 0</LabelMargin>
+      <FontSize>12</FontSize>
+      <LineColor>#808080</LineColor>
+      <TextColor>#000000</TextColor>
+    </XAxis>
+    <YAxes>
+      <YAxis>
+        <!-- Position: Left, Right -->
+        <Position>Left</Position>
+        <AutoWidth>true</AutoWidth>
+        <Width>0</Width>
+        <ShowTitle>true</ShowTitle>
+        <ShowGridLines>true</ShowGridLines>
+        <MajorTickSize>4</MajorTickSize>
+        <MinorTickSize>2</MinorTickSize>
+        <MinorTickCount>4</MinorTickCount>
+        <LabelMargin>2, 3</LabelMargin>
+        <FontSize>12</FontSize>
+        <LineColor>#808080</LineColor>
+        <TextColor>#000000</TextColor>
+        <TrendColor></TrendColor>
+        <!-- IncludeZero: Off, On, WithoutZoom -->
+        <IncludeZero>WithoutZoom</IncludeZero>
+        <QuantityIDs></QuantityIDs>
+      </YAxis>
+    </YAxes>
+    <Legend>
+      <!-- Position: None, Right, Bottom-->
+      <Position>Bottom</Position>
+      <ColumnWidth>300</ColumnWidth>
+      <ColumnMargin>10, 10, 0</ColumnMargin>
+      <ColumnCount>1</ColumnCount>
+      <LineHeight>18</LineHeight>
+      <IconWidth>12</IconWidth>
+      <IconHeight>12</IconHeight>
+      <FontSize>12</FontSize>
+      <ForeColor>#000000</ForeColor>
+    </Legend>
+  </DisplayOptions>
+  <BehaviorOptions>
+    <RefreshRate>60000</RefreshRate>
+  </BehaviorOptions>
+</PlgChartPro>

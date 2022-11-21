@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlgChartProDictionaries>
+  <Dictionary key="Scada.Web.Plugins.Chart">
+    <Phrase key="PerfWarning">Предупреждение! Слишком много каналов могут снизить производительность.</Phrase>
+    <Phrase key="AddCnlBtn">Добавить</Phrase>
+    <Phrase key="RemoveCnlBtn">Удалить</Phrase>
+    <Phrase key="CnlInfoBtn">Инфо</Phrase>
+    <Phrase key="ObjectHint">Объект: </Phrase>
+    <Phrase key="DeviceHint">КП: </Phrase>
+    <Phrase key="ViewHint">Представление: </Phrase>
+  </Dictionary>
+  <Dictionary key="Scada.Web.Plugins.ChartPro.WFrmChartCnls">
+    <Phrase key="this">Каналы графика</Phrase>
+    <Phrase key="btnAddCnls">Добавить каналы</Phrase>
+    <Phrase key="lblSelCnls">Выбранные каналы:</Phrase>
+    <Phrase key="lblNoSelCnls">Входные каналы не выбраны</Phrase>
+    <Phrase key="lbtnBackToCnls">Назад к выбранным каналам</Phrase>
+    <Phrase key="lblLoading">Загрузка...</Phrase>
+    <Phrase key="lblUnableLoadView">Не удалось загрузить представление</Phrase>
+    <Phrase key="lblNoCnlsByView">Входные каналы не найдены</Phrase>
+  </Dictionary>
+  <Dictionary key="Scada.Web.Plugins.ChartPro.WFrmChartExport">
+    <Phrase key="this">Экспорт</Phrase>
+    <Phrase key="btnExportPdf">Экспорт графика в PDF</Phrase>
+    <Phrase key="btnExportPng">Экспорт графика в PNG</Phrase>
+    <Phrase key="btnExportExcel">Экспорт данных в Excel</Phrase>
+    <Phrase key="lblDateFrom">Начало</Phrase>
+    <Phrase key="lblDateTo">Окончание</Phrase>
+  </Dictionary>
+  <Dictionary key="Scada.Web.Plugins.ChartPro.WFrmChartPeriod">
+    <Phrase key="this">Период графика</Phrase>
+    <Phrase key="lblDateFrom">Начало</Phrase>
+    <Phrase key="lblDateTo">Окончание</Phrase>
+    <Phrase key="btnPrevDay">День влево</Phrase>
+    <Phrase key="btnNextDay">День вправо</Phrase>
+    <Phrase key="btnPrevWeek">Неделя влево</Phrase>
+    <Phrase key="btnNextWeek">Неделя вправо</Phrase>
+    <Phrase key="btnPrevMonth">Месяц влево</Phrase>
+    <Phrase key="btnNextMonth">Месяц вправо</Phrase>
+  </Dictionary>
+  <Dictionary key="Scada.Web.Plugins.ChartPro.WFrmChartPeriodRolling">
+    <Phrase key="this">Период графика</Phrase>
+    <Phrase key="lblPeriod">Период</Phrase>
+    <Phrase key="lblPeriodUnit">мин</Phrase>
+  </Dictionary>
+  <Dictionary key="Scada.Web.Plugins.ChartPro.WFrmChartPro">
+    <Phrase key="this">График Про</Phrase>
+    <Phrase key="hlSelectCnls">Выбрать каналы</Phrase>
+    <Phrase key="hlChangePeriod">Изменить период</Phrase>
+    <Phrase key="hlShowData">Показать данные</Phrase>
+    <Phrase key="hlHideData">Скрыть данные</Phrase>
+    <Phrase key="hlExport">Экспорт</Phrase>
+    <Phrase key="btnClose">Закрыть</Phrase>
+    <Phrase key="Generated">Получено </Phrase>
+  </Dictionary>
+  <Dictionary key="Scada.Web.Plugins.ChartPro.WFrmChartPro.Js">
+    <Phrase key="DataLoading">Загрузка данных...</Phrase>
+    <Phrase key="LoadError">Ошибка загрузки данных</Phrase>
+    <Phrase key="Generated">Получено </Phrase>
+    <Phrase key="TimeCol">Время</Phrase>
+    <Phrase key="ZoomIn">Увеличение</Phrase>
+    <Phrase key="ZoomOut">Уменьшение</Phrase>
+    <Phrase key="ResetZoom">Сбросить увеличение</Phrase>
+  </Dictionary>
+</PlgChartProDictionaries>

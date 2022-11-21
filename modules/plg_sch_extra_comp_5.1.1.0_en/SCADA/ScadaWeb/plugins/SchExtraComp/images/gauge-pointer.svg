@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Создано Microsoft Visio 11.0, Экспорт SVG, версия 1.0 gauge-pointer.svg Page-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="0.414534in" height="1.98934in"
+		viewBox="0 0 29.8465 143.232" xml:space="preserve" color-interpolation-filters="sRGB" class="st3">
+	<v:documentProperties v:langID="1049" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:url(#grad26-4);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st2 {fill:url(#grad36-8);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st3 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Patterns_And_Gradients">
+		<linearGradient id="grad26-4" v:fillPattern="26" v:foreground="#ff8c8c" v:background="#c00000" x1="0" y1="0" x2="1" y2="0">
+			<stop offset="0" style="stop-color:#c00000;stop-opacity:1"/>
+			<stop offset="0.5" style="stop-color:#ff8c8c;stop-opacity:1"/>
+			<stop offset="1" style="stop-color:#c00000;stop-opacity:1"/>
+		</linearGradient>
+		<radialGradient id="grad36-8" v:fillPattern="36" v:foreground="#ffffff" v:background="#000000" cx="0" cy="0" r="1">
+			<stop offset="0" style="stop-color:#ffffff;stop-opacity:1"/>
+			<stop offset="1" style="stop-color:#000000;stop-opacity:1"/>
+		</radialGradient>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>Page-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<g id="shape5-1" v:mID="5" v:groupContext="shape" transform="translate(6.41929,-14.9232)">
+			<title>Лист.5</title>
+			<path d="M0 143.23 L8.5 15.67 L17.01 143.23 L0 143.23 Z" class="st1"/>
+		</g>
+		<g id="shape4-5" v:mID="4" v:groupContext="shape" transform="translate(0.75,-0.75)">
+			<title>Лист.4</title>
+			<ellipse cx="14.1732" cy="129.059" rx="14.1732" ry="14.1732" class="st2"/>
+		</g>
+	</g>
+</svg>

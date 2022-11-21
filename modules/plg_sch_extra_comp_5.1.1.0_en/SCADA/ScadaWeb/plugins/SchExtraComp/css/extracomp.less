@@ -1,0 +1,42 @@
+﻿/* Chart and Frame */
+.extra-chart iframe,
+.extra-frame iframe {
+    margin: 0;
+    padding: 0;
+    border: none;
+    display: inline-block;
+    overflow: hidden;
+}
+
+/* Gauge */
+.extra-gauge {
+    overflow: hidden;
+}
+
+.extra-gauge-container {
+    position: relative;
+}
+
+.extra-gauge-scale,
+.extra-gauge-pointer {
+    position: absolute;
+}
+
+.extra-gauge.undef .extra-gauge-pointer {
+    visibility: hidden;
+}
+
+/* Level */
+.extra-level-container {
+    display: table-cell;
+    vertical-align: bottom;
+}
+
+.extra-level-bar {
+    box-sizing: border-box;
+    float: left;
+}
+
+.extra-level.undef .extra-level-container {
+    visibility: hidden;
+}

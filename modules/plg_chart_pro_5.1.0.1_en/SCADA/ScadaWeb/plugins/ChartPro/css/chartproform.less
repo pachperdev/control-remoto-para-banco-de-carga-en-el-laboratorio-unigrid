@@ -1,0 +1,109 @@
+﻿@import "../../Chart/css/chartform.less";
+
+@row-back-color: white;
+@row-back-color-hdr: #ccc;
+@row-back-color-date: @row-back-color-hdr;
+@row-hover-back-color: #e0e0e0;
+@cell-border-color: #999;
+@cell-border-color-hdr: #888;
+
+#divChartContent {
+    height: 100%;
+    overflow: hidden;
+}
+
+#divChart {
+    min-width: 100px;
+    padding: 10px;
+    display: inline-block;
+    overflow: auto;
+}
+
+#divMenuContainer {
+    position: relative;
+    width: 40px;
+}
+
+#divMenu {
+    position: absolute;
+    top: -5px;
+}
+
+#btnMenu {
+    padding: 4px 8px;
+}
+
+#spanMenuBtn {
+    position: relative;
+    top: 2px;
+    font-size: 15px;
+}
+
+#divClose {
+    display: inline-block;
+    margin-left: 10px;
+}
+
+#divData {
+    margin: 5px 0 0;
+    padding: 0 5px;
+    min-width: 50px;
+    display: none;
+    font-size: @data-font-size;
+    overflow: auto;
+}
+
+#divData.show {
+    display: inline-block !important;
+}
+
+#divData tr.hdr.fixed-table-header {
+    left: 5px;
+}
+
+#tblData {
+    border-collapse: collapse;
+}
+
+#tblData tr {
+    background-color: @row-back-color;
+}
+
+#tblData tr:hover {
+    background-color: @row-hover-back-color;
+}
+
+#tblData tr.hdr,
+#tblData tr.hdr:hover {
+    background-color: @row-back-color-hdr;
+}
+
+#tblData tr.date,
+#tblData tr.date:hover {
+    background-color: @row-back-color-date;
+}
+
+#tblData td {
+    border: 1px solid @cell-border-color;
+    font-size: @data-font-size;
+    line-height: 18px;
+    padding: 2px 3px;
+    text-align: center;
+    vertical-align: middle;
+    white-space: nowrap;
+}
+
+#tblData tr.hdr td {
+    border-color: @cell-border-color-hdr;
+    font-weight: 600;
+    padding: 2px 7px;
+}
+
+#tblData tr.date-row td {
+    font-weight: 600;
+}
+
+#lblNoData {
+    display: block;
+    text-align: center;
+}

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DevTemplate>
+  <Settings>
+    <ZeroAddr>false</ZeroAddr>
+    <DecAddr>true</DecAddr>
+    <DefByteOrder2 />
+    <DefByteOrder4 />
+    <DefByteOrder8 />
+  </Settings>
+  <ElemGroups>
+    <ElemGroup active="true" tableType="HoldingRegisters" address="3010" name="pr">
+      <Elem name="Estado1" type="ushort" byteOrder="" />
+      <Elem name="EStado2" type="ushort" byteOrder="" />
+      <Elem name="Estado3" type="ushort" byteOrder="" />
+      <Elem name="manual" type="ushort" byteOrder="" />
+    </ElemGroup>
+  </ElemGroups>
+  <Cmds>
+    <Cmd tableType="HoldingRegisters" multiple="false" address="3000" byteOrder="" cmdNum="1" name="set-pot-1" />
+    <Cmd tableType="HoldingRegisters" multiple="false" address="3001" byteOrder="" cmdNum="2" name="set-pot-2" />
+    <Cmd tableType="HoldingRegisters" multiple="false" address="3002" byteOrder="" cmdNum="3" name="set-pot-3" />
+    <Cmd tableType="HoldingRegisters" multiple="false" address="3003" byteOrder="" cmdNum="4" name="Manual" />
+  </Cmds>
+</DevTemplate>
